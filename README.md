@@ -1,2 +1,16 @@
-# coin_montor_public
-USDT监控 TRX监控   发送TG消息通知 TRC20-USDT监控
+# 波场监控 波场链TRX 波场链USDT
+# USDT监控 TRX监控   发送TG消息通知 TRC20-USDT监控 波场监控 自动监控 自动提醒
+# 此系统代码是收费。不支持白嫖，想白嫖的请绕道 
+
+# 需要的联系飞机账号请说明需要哪一个系统  @ttt88pay  请备注是github看到的 ， 不支持白嫖 ， 白嫖党请绕道。系统价格又不贵！！！！！！
+
+
+# 此系统价格便宜 请放心购买
+
+# 演示截图如下
+
+![cc](https://github.com/debug8888/coin_montor_public/assets/93066952/4aa0fd63-103e-4c49-a285-2675a32562cb)
+![4](https://github.com/debug8888/coin_montor_public/assets/93066952/ce80dedc-49c8-4dab-b61d-858b74edf1e3)
+![3](https://github.com/debug8888/coin_montor_public/assets/93066952/8f78cfeb-e78f-4fff-accd-93d4c9334dc5)
+![2](https://github.com/debug8888/coin_montor_public/assets/93066952/36fd9a2d-3b8e-4471-a0c1-ae6e0c4400db)
+![1](https://github.com/debug8888/coin_montor_public/assets/93066952/5cb442b0-bde9-43fa-b4ef-0a8c99389756)
