@@ -18,6 +18,11 @@ contract_address_arr = [ //监控的合约 , 可以配置多个合约地址
     }    
 ] ;
 ~~~
+
+# 监控截图
+
+![333](https://github.com/debug8888/coin_montor_public/assets/93066952/ec2b4907-5cb5-4152-be0b-79b6270c158a)
+
 # 此系统价格便宜 请放心购买
 
 # 演示截图如下
