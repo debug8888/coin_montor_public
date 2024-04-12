@@ -1,5 +1,5 @@
-# 波场监控 波场链TRX 波场链USDT
-# USDT监控 TRX监控   发送TG消息通知 TRC20-USDT监控 波场监控 自动监控 自动提醒 合约监控 代币监控 TRC20     Transfer类型监控
+# 波场监控 波场链TRX 波场链USDT 以太坊监控 ETH监控 ERC20代币监控
+# USDT监控 TRX监控   发送TG消息通知 TRC20-USDT监控 波场监控 自动监控 自动提醒 合约监控 代币监控 TRC20   以太坊监控 ETH监控 ERC20代币监控  ERC20-USDT监控  Transfer类型监控 
 # 此系统代码是收费。不支持白嫖，想白嫖的请绕道 
 
 # 需要的联系飞机账号请说明需要哪一个系统  @ttt88pay  请备注是github看到的 ， 不支持白嫖 ， 白嫖党请绕道。系统价格又不贵！！！！！！
@@ -22,6 +22,9 @@ contract_address_arr = [ //监控的合约 , 可以配置多个合约地址
 # 监控截图
 
 ![333](https://github.com/debug8888/coin_montor_public/assets/93066952/ec2b4907-5cb5-4152-be0b-79b6270c158a)
+
+# 代码截图
+![1111](https://github.com/debug8888/coin_montor_public/assets/93066952/981528ed-bf6e-4d63-8c7d-3b2d1df2cf63)
 
 # 此系统价格便宜 请放心购买
 
