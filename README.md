@@ -4,7 +4,19 @@
 
 # 需要的联系飞机账号请说明需要哪一个系统  @ttt88pay  请备注是github看到的 ， 不支持白嫖 ， 白嫖党请绕道。系统价格又不贵！！！！！！
 
+# 支持波场的任何 TRC20  代币的转账交易 只需要配置合约地址即可
 
+~~~
+
+contract_address_arr = [ //监控的合约 , 可以配置多个合约地址
+    
+    {
+        "address" : 'TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t',
+        "name" : "USDT-TRC20" , 
+        "decimal" : 6 
+    }    
+] ;
+~~~
 # 此系统价格便宜 请放心购买
 
 # 演示截图如下
