@@ -1,5 +1,5 @@
-# 波场监控 波场链TRX 波场链USDT 以太坊监控 ETH监控 ERC20代币监控
-# USDT监控 TRX监控   发送TG消息通知 TRC20-USDT监控 波场监控 自动监控 自动提醒 合约监控 代币监控 TRC20   以太坊监控 ETH监控 ERC20代币监控  ERC20-USDT监控  Transfer类型监控 
+# 波场监控 波场链TRX 波场链USDT 以太坊监控 ETH监控 ERC20代币监控  BSC链监控 BNB监控 BUSDT监控 币安智能链监控
+# USDT监控 TRX监控   发送TG消息通知 TRC20-USDT监控 波场监控 自动监控 自动提醒 合约监控 代币监控 TRC20   以太坊监控 ETH监控 ERC20代币监控  ERC20-USDT监控  Transfer类型监控  BNB监控 BUSDT监控 币安智能链监控
 # 此系统代码是收费。不支持白嫖，想白嫖的请绕道 
 
 # 需要的联系飞机账号请说明需要哪一个系统  @ttt88pay  请备注是github看到的 ， 不支持白嫖 ， 白嫖党请绕道。系统价格又不贵！！！！！！
